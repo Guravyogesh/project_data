@@ -1,0 +1,111 @@
+{
+  "posts": [
+    {
+      "studentName": "testing",
+      "age": "45",
+      "gender": "male",
+      "courseName": "BCA",
+      "departmentName": "Computer Science of Engg.",
+      "hobbies": [
+        {
+          "value": "1",
+          "name": "Music"
+        }
+      ],
+      "selectedFile": "blob:http://localhost:4200/bd7044e8-bf47-4e87-8a2b-1cac0750094b",
+      "id": 1
+    },
+    {
+      "studentName": "Srgrseh",
+      "age": "66",
+      "gender": "female",
+      "courseName": "CSE",
+      "departmentName": "Computer Science of Engg.",
+      "hobbies": [
+        {
+          "value": "1",
+          "name": "Music"
+        }
+      ],
+      "selectedFile": "blob:http://localhost:4200/44081e99-0c42-455e-b741-671d4fba8990",
+      "id": 2
+    },
+    {
+      "studentName": "test",
+      "age": "44",
+      "gender": "male",
+      "courseName": "CSE",
+      "departmentName": "Computer Science of Engg.",
+      "hobbies": [
+        {
+          "value": "1",
+          "name": "Music"
+        }
+      ],
+      "selectedFile": "blob:http://localhost:4200/c0018897-0c87-407d-b246-97712e77d636",
+      "id": 3
+    },
+    {
+      "studentName": "yogesh",
+      "age": "12",
+      "gender": "male",
+      "courseName": "MCA",
+      "departmentName": "Computer Science of Engg.",
+      "hobbies": [
+        {
+          "value": "1",
+          "name": "Music"
+        }
+      ],
+      "selectedFile": "blob:https://clinquant-stroopwafel-9f45aa.netlify.app/0d87a116-0319-4c25-8ee6-f56107e53e17",
+      "id": 4
+    },
+    {
+      "studentName": "Shahbaj",
+      "age": "23",
+      "gender": "male",
+      "courseName": "MCA",
+      "departmentName": "Computer Science of Engg.",
+      "hobbies": [
+        {
+          "value": "1",
+          "name": "Music"
+        }
+      ],
+      "selectedFile": "blob:https://clinquant-stroopwafel-9f45aa.netlify.app/82c7a58f-2fbe-4739-94a7-9b010c76e7f4",
+      "id": 5
+    },
+    {
+      "studentName": "Rajesh",
+      "age": "22",
+      "gender": "male",
+      "courseName": "MCA",
+      "departmentName": "Computer Science of Engg.",
+      "hobbies": [
+        {
+          "value": "1",
+          "name": "Music"
+        }
+      ],
+      "selectedFile": "blob:http://localhost:4200/c5950323-058e-475c-92e5-3b40e63c1455",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "studentName": "Ganesh",
+      "age": "31",
+      "gender": "male",
+      "id": 2
+    }
+  ],
+  "images": [
+    {
+      "name": "",
+      "file": ""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
